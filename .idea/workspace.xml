@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934734ac-2459-449c-a8aa-629a0b68fc83" name="Changes" comment="Selenium simple program">
-      <change afterPath="$PROJECT_DIR$/Python/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/ex_07062024/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/ex_07062024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/ex_07062024/Lab003.py" afterDir="false" />
+    <list default="true" id="934734ac-2459-449c-a8aa-629a0b68fc83" name="Changes" comment="Python class1">
+      <change afterPath="$PROJECT_DIR$/Python/ex_07062024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/ex_07062024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/ex_07062024/Lab006.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +53,9 @@
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
     "Python.Lab_s002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -92,12 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723140738227</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Python class1">
+      <option name="closed" value="true" />
+      <created>1723141669498</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723141669498</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="what is selenium" />
     <MESSAGE value="Selenium simple program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium simple program" />
+    <MESSAGE value="Python class1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python class1" />
   </component>
 </project>
